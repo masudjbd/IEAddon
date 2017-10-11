@@ -1,0 +1,14 @@
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\obj\Debug\InternetExplorerExtension.csprojResolveAssemblyReference.cache
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\obj\Debug\InternetExplorerExtension.csproj.CoreCompileInputs.cache
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\bin\Debug\InternetExplorerExtension.dll
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\bin\Debug\InternetExplorerExtension.pdb
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\obj\Debug\InternetExplorerExtension.dll
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\obj\Debug\InternetExplorerExtension.pdb
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\bin\Debug\System.IO.dll
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\bin\Debug\System.Net.Http.dll
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\bin\Debug\System.Runtime.dll
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Masud\source\repos\InternetExplorerExtension\InternetExplorerExtension\bin\Debug\System.Security.Cryptography.X509Certificates.dll
